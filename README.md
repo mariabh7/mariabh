@@ -1,6 +1,18 @@
-- 👋 Hi, I’m @mariabh7
-- 👀 I’m interested in : web developping and tech in general..
-- 🌱 I’m currently learning : javascript😍
-- 💞️ I’m looking to collaborate on :nothing currently to be honest but if you like any of my projects i'll not say no , {the thing that i want is to be able to create amazing projects in a clean way}.
-- 📫 How to reach me : by my github account or my instagram https://www.instagram.com/mariiia.codes/ 🥳 
-🥰 updates: i have created my own website  so you can know now see my projects 😍  https://mariacodes.net/ august 19, 2022
+# 💫 About Me:
+🙋🏻‍♀️ I’m maria , a junior web developer<br>🤝 here to get help and help you in the same time <br>🌱 I’m currently learning javascript <br>💬 Ask me about anything you want to know about how to learn <br>⚡ Fun fact : i'm gonna start working on my portfolio soon  <br> 
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maria.codess) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mariabh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mariabh7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariabh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mariabh7&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
