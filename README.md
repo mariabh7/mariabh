@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋🏻‍♀️ I’m maria , a junior web developer<br>🤝 here to get help and help you in the same time <br>🌱 I’m currently learning javascript <br>💬 Ask me about anything you want to know about how to learn <br>⚡ Fun fact : i'm gonna start working on my portfolio soon  <br> 
+🙋🏻‍♀️ I’m maria , a junior web developer<br>🌱 I’m currently learning javascript <br>💬  i do speak:  English ,French and Arabic  <br>⚡ Fun fact : i'm gonna start working on my portfolio soon  <br> 
 
 
 ## 🌐 Socials:
