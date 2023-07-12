@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 | My name is Maria <br>👯 | 17y , front-end web devoloper<br>🌱 | I’m currently learning javascript<br>💬 | i do speak English , French and Arabic<br>⚡ | Attending to be a full stack web developer
+🙋🏻‍♀️ | My name is Maria <br>👩🏻‍💻 | 17y , front-end web devoloper<br>🌱 | I’m currently learning javascript<br>💬 | i do speak English , French and Arabic<br>⚡ | Attending to be a full stack web developer
 
 
 ## 🌐 Socials:
